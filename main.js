@@ -3,6 +3,7 @@ import fa from './fa.js'
 import fa2 from './fa2.js'
 import fb from  './fb.js'
 import fb2 from  './fb2.js'
+import fb3 from  './fb3.js'
 
 function main(){
   master()
@@ -10,6 +11,7 @@ function main(){
   fa2()
   fb()
   fb2()
+  fb3()
 }
 
 
