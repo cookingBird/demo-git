@@ -4,4 +4,6 @@ export default function(){
   console.log('this is feature fb2');
 
   console.log('this is feature fb3');
+
+  console.log('this is feature fb4');
 }
